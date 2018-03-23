@@ -1,5 +1,6 @@
 ---
-title: "Test"
+title: "AI in Healthcare"
+Quote:“Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.” - Mark Twain
 ---
 
-Test post.
+<pic src:"healthcare.jpg" alt:"pic of AI in healthcare">
