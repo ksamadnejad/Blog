@@ -1,6 +1,7 @@
 ---
 title: "AI in Healthcare"
 Quote:Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. - Mark Twain
+
 ---
 
 <pic src="/Blog/img/healthcare.jpg" alt="pic of AI in healthcare">
