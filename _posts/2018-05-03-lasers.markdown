@@ -1,10 +1,12 @@
 ---
 title: "Opossums are wise and perky"
-color: "Sort of greyish, but with silky bits like an opossum's marsupium"
+Quote: All of our dreams can come true if we have the courage to pursue them.
+Author: Walt Disney
+
 ---
 
-Here's an opossum! 
+<img src="/Blog/img/laser.jpg" alt="pic of superman laser eyes">
 
-[Page with opossums!!!!](http://opossum.org)
+WOAH! Researchers have developed new technology that could make it possibly to actually shoot laser beams from your eyes like Superman. Well, not exactly shoot literal laser beams from your eyes, but that would be cool!
 
-[Real page w opossums!!!!!](http://thinkaboutnow.com/2017/05/opossums-kill-ticks-help-stop-the-spread-of-lyme/)
+In plain English, laser-emitting membranes would be placed in eyes and act as a felixble and wearable security tag, sort of like contact lenses. The purpose is a new security feature for authentication purposes. 
