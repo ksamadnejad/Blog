@@ -1,0 +1,10 @@
+---
+title: "3D Printing Engine Blocks"
+Quote: Believe you can and you're halfway there.
+Author: Theodore Roosevelt
+
+<img src="/Blog/img/3d.jpg" alt="pic of 3d printer">
+
+A gigantic new metal additive manufacturing system at Roush Industries may finally give engineers a glimpse of 3D printing’s ultimate potential in the auto industry.
+
+The new system could enable automakers to build radical new test versions of engines, transmissions, and other large components that could previously only have been built by conventional means. By doing so, it could allow OEM engineers and suppliers to consider concepts that they couldn’t previously. 
