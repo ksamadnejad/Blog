@@ -1,0 +1,12 @@
+---
+title: "Virtual Tours"
+Quote: Thinking: the talking of the soul with itself. 
+Author: Plato
+
+---
+
+<img src="/Blog/img/VR.png" alt="pic of VR system">
+
+Google has launched a new tool for teachers and their students called Tour Creator, which allows anyone to create their own VR tour using imagery from Google’s Street View or their own 360-degree photos.
+
+The goal with Expeditions is to let people virtually travel the world to see far off places they may never have the chance to visit in person.
