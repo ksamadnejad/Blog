@@ -1,0 +1,10 @@
+---
+title: "Self Driving Lyft"
+Quote: We can't help everyone, but everyone can help someone.
+Author: Ronald Reagan
+
+---
+
+<img src="/Blog/img/lyft.jpg" alt="pic of self driving car">
+
+If you’re in Las Vegas, rather than taking a spin on the roulette wheel, why not test your luck on some self-driving wheels?
