@@ -1,0 +1,10 @@
+---
+title: "Facebook Training AI"
+Quote: If you can't explain it simply, you don't understand it well enough. 
+Author: Albert Einstein
+
+---
+
+<img src="/Blog/img/facebook.jpg" alt="pic of apps">
+
+Facebook used billions of public Instagram photos to train their artificial intelligence algorithm to categorize images for itself. The photos contained 17,000 hashtags that were given by Instagram users.
