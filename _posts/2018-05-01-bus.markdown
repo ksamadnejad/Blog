@@ -1,0 +1,12 @@
+---
+title: "Wireless Charging Buses"
+Quote: In a gentle way, you can shake the world.
+Author: Mahatma Gandhi
+
+---
+
+<img src="/Blog/img/bus.jpg" alt="pic of wireless charging bus">
+
+ A Pennsylvania company, Momentum Dynamics, has announced the commissioning of a 200-kilowatt wireless charging system for a bus fleet. 
+ 
+ The charger adds enough energy to the bus battery during a five minute stop to allow it to complete another route cycle. The charging system is embedded into the pavement at a Link Transit transfer station stop. Each time the BYD bus parks over the charger, its battery is automatically recharged.
