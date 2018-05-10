@@ -1,0 +1,12 @@
+---
+title: "Facebook's New VR Camera"
+Quote: Go out on a limb. That’s where the fruit is.
+Author: Jimmy Carter
+
+---
+
+<img src="/Blog/img/facebook2.jpg" alt="pic of prototype camera">
+
+Facebook is partnering with camera maker RED to develop a professional-grade virtual reality camera system that can capture high-resolution imagery in so-called 6DoF, or six degrees of freedom, which allows it to be viewed and explored in real time within virtual reality. The rig, which doesn’t yet have pricing or release date info available, is a culmination of Facebook’s internal efforts on its Surround 360 platform. RED’s upcoming VR camera will now be the one Facebook suggests to filmmakers and other creators who want to make the most high-fidelity, immersive entertainment and art.
+
+With its partnership with RED, it seems Facebook has finally found a company with a reputation in Hollywood and indie filmmaking circles for its technical mastery to push high-end VR video closer to the mainstream.
