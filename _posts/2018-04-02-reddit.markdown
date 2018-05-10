@@ -1,0 +1,14 @@
+---
+title: "Reddit Platform Redesign"
+Quote: Do one thing every day that scares you.
+Author: Eleanor Roosevelt
+
+---
+
+<img src="/Blog/img/reddit.jpg" alt="pic of new reddit design">
+
+Reddit has redesigned its website, marking the first time in a decade that the social media network has altered its interface. 
+
+The new Reddit design replaces the navigation bar with a menu on the left corner, which resembles a lot of trendy website templates available on Squarespace, Wix, or Tumblr. The menu opens up to display links to feeds, subreddits you follow, and user profiles.
+
+To make things more intuitive for new users, different fonts will now distinguish whether a link is heading outside of Reddit or leading to another post. To promote content creation, a big blue button stands out on the main page, r/all, inviting users to post something new. And posts will now open up in boxes to keep you on the main page you’re on so that each new link won’t be taking you away from the page.
