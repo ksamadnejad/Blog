@@ -7,9 +7,5 @@ Author: Aristotle
 
 <img src="/Blog/img/ford.jpg" alt="pic of Ford's new tech">
 
-<div class="fordtech" id="player">
-    <iframe src="https://www.youtube.com/watch?v=CDfqPMmNmmk&feature=youtu.be" allowfullscreen allowtransparency allow="autoplay"></iframe>
-</div>
-
 Ford is developing a new smart car window to let blind passengers experience the passing landscape. A prototype, called Feel the View, uses high-contrast photos to reproduce scenery using LED lights. Passengers can touch the display to feel different shades of grey vibrate at different intensities.
 
