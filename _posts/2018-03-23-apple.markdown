@@ -1,0 +1,13 @@
+---
+title: "A Foldable iPhone?"
+Quote: Saying it is impossible to live without failing at something is impossible. Unless you live so cautiously that you might as well not have lived at all, in which case you have failed by default.
+Author: J.K. Rowling
+
+---
+
+<img src="/Blog/img/apple.png" alt="pic of Apple logo">
+
+Apple is said to be working on a foldable iPhone to be released within two years. 
+
+
+(https://www.theverge.com/circuitbreaker/2018/3/23/17155586/apple-foldable-iphone-oled-lg-screen-2020)
