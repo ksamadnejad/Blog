@@ -1,0 +1,14 @@
+---
+title: "GoPro Lenses in Third-Party Products"
+Quote: In the midst of movement and chaos, keep stillness inside of you.
+Author: Deepak Chopra
+
+---
+
+<img src="/Blog/img/gopro.jpg" alt="pic of GoPro">
+
+GoPro has entered into a licensing partnership with Jabil, a manufacturing services company known for its electronics design. Jabil is going to use GoPro’s design and intellectual property to make camera lenses and sensors for third-party products. 
+
+“Imagine a world where video conferencing, robotics, and even self-driving cars are powered by GoPro’s camera lenses and image sensors. Together, GoPro and Jabil can make this a reality,” said Sandor Barna, GoPro’s chief technology officer.
+
+Jabil foresees applications in smart homes, for the military or police, firefighters, and security guards. The products Jabil will make won’t be GoPro branded, but they will utilize GoPro’s underlying tech. 
