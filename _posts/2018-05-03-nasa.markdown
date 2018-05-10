@@ -1,0 +1,16 @@
+---
+title: "NASA Launch to Mars"
+Quote: Success is most often achieved by those who don't know that failure is inevitable.
+Author: Coco Chanel
+
+---
+
+<img src="/Blog/img/nasa.jpg" alt="pic of rocket on Mars">
+
+InSight is off to Mars! 
+
+InSight’s next stop: the mysterious red planet, a 301 million mile journey.
+
+The probe will stay put at the landing sight. On that spot, three seismometers, housed in a sphere the size of a volleyball, will go deep inside Mars. The seismometers will detect landslides, dust storms, meteor strikes, and Marsquakes.
+
+With that data, NASA can scrutinize the early history of Mars. And perhaps extrapolate those findings to figure out the evolution of another rocky planet, Earth. That’s impossible to do on Earth itself, a geologically dynamic place that has wiped out much of its past.
